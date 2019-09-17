@@ -1,10 +1,9 @@
-const { randomizeGender } = require('./logic');
+const { randomizeNameList } = require('./logic');
 const { readNames } = require('./infrastructure');
 
 function main() {
-  const gender = randomizeGender();
-  const names = readNames(gender);
-  console.log(names);
+  const nameList = randomizeNameList();
+  const names = readNames(nameList);
 
   //   const selectedName = randomizeName(names);
   //   const words = readWordSource();

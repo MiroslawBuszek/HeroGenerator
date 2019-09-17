@@ -1,10 +1,10 @@
-function randomizeGender() {
+function randomizeNameList() {
   const select = Math.floor((Math.random() * 2) + 1);
   if (select == 1) {
-    return 'male';
+    return 'names-male.txt';
   } else {
-    return 'female';
+    return 'names-female.txt';
   }
-}
+} 
  
-module.exports.randomizeGender = randomizeGender;
+module.exports.randomizeNameList = randomizeNameList;
