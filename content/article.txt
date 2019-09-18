@@ -1,0 +1,11 @@
+Jako że odkryłem swoje powołanie do programowania, poszedłem na studia techniczne. Nie był to kierunek czysto informatyczny – chciałem spróbować czegoś jeszcze
+nowego. Wybrałem Automatykę i robotykę na wydziale Elektroniki. Dlaczego? Zafascynowała mnie myśl, że połączę programowanie z czymś „żywym”. Dodatkowo była to
+wiedza mniej dostępna dla ogółu – w przeciwieństwie ogromu poradników i książek informatycznych. Dlatego wydał mi się ten kierunek idealnym. Ale bynajmniej
+przez fakt, że nie była to czysta Informatyka, nie narzekałem na małą ilość zajęć w kierunku mojego zainteresowania.
+
+Pierwsze dzieło dotyczyło wyznaczania przybliżonego wzoru funkcji na podstawie jej danych wejściowych i wyjściowych. 
+Nudne? Może i wynik nie był fascynujący, lecz problem nie jest banalny. Dlatego poprawność (z pewnym przybliżeniem) wyniku dawała sporą satysfakcję. 
+Przy okazji tworzenia programu, realizującego powyższe zadanie, nabrałem doświadczenia przy zadaniach na kolekcjach w C#.
+
+
+
