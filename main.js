@@ -1,4 +1,4 @@
-const { randomizeNameList, randomizeName } = require('./logic');
+const { randomizeNameList, randomizeName, calculateMaxPool } = require('./logic');
 const { readNames } = require('./infrastructure');
 
 function main() {
